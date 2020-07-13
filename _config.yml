@@ -1,11 +1,11 @@
 # Site settings
-title: Helena M. Richie
+title: Helena Richie
 description: Jekyll Theme Minimal Resume
 # baseurl: "/helenarichie" # the subpath of your site
 # url: "https://helenarichie.github.io/helenarichie" # the base hostname & protocol for your site
 
 # User settings
-username: Helena Richie
+username: Helena M. Richie
 user_description: I in my first year of studies for a Physics Ph.D. at the University of Pittsburgh. My background is in observational astronomy and exoplanet detection.
 user_title: Graduate Student // Astronomy
 email: helenarichie@pitt.edu
