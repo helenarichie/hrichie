@@ -6,7 +6,7 @@ description: Jekyll Theme Minimal Resume
 
 # User settings
 username: Helena M. Richie
-user_description: <p>I am a first-year PhD student at the University of Pittsburgh in the Department of Physics & Astronomy. My interests include observational astronomy and exoplanet detection.</p><p>I earned my B.Sc. in Physics & Astronomy and Mathematics from the University of Pittsburgh in 2020. During my undergrad, I served as Lead Undergraduate of the Survey of Transiting Extrasolar Planets at the University of Pittsburgh (STEPUP), which is an observational astronomy group that uses instruments based out of Pittsburgh's <a href="http://www.pitt.edu/~aobsvtry/" style="color:#5C85D6">Allegheny Observatory</a> to detect transiting exoplanets.</p>
+user_description: <p style="text-align:left;">I am a first-year PhD student at the University of Pittsburgh in the Department of Physics & Astronomy. My interests include observational astronomy and exoplanet detection.</p><p style="text-align:left;">I earned my B.Sc. in Physics & Astronomy and Mathematics from the University of Pittsburgh in 2020. During my undergrad, I served as Lead Undergraduate of the Survey of Transiting Extrasolar Planets at the University of Pittsburgh (STEPUP), which is an observational astronomy group that uses instruments based out of Pittsburgh's <a href="http://www.pitt.edu/~aobsvtry/" style="color:#5C85D6">Allegheny Observatory</a> to detect transiting exoplanets.</p>
 user_title: Graduate Student // Astronomy
 email: helenarichie@pitt.edu
 # instagram_username: astrohelena
